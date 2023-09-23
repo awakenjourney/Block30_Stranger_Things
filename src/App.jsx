@@ -8,7 +8,7 @@ import "bootstrap/dist/css/bootstrap.css";
 
 import Header from "./assets/Header";
 import PagesContainer from "./components/PagesContainer";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 function App() {
   return (
